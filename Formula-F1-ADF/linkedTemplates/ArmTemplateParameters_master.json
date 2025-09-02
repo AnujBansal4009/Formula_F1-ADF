@@ -5,8 +5,17 @@
 		"factoryName": {
 			"value": "Formula-F1-ADF"
 		},
+		"ls_formula1_storage_acc_accountKey": {
+			"value": ""
+		},
 		"Ls_databricks_ws_properties_typeProperties_existingClusterId": {
 			"value": "0821-125635-4aa1yykq"
+		},
+		"ls_formula1_storage_acc_properties_typeProperties_url": {
+			"value": "https://dlformula1storageacc.dfs.core.windows.net/"
+		},
+		"Tr_process_Formula1_data_properties_pipeline_parameters_p_windows_end_date": {
+			"value": "@trigger().outputs.windowEndTime"
 		},
 		"containerUri": {
 			"value": ""
